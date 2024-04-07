@@ -1,0 +1,161 @@
+body  
+{
+    background-color: rgb(244, 151, 151);
+    color: rgb(0, 0, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 5px;
+}
+
+.HomeTitle{
+    align-items: center;
+    text-align: center;
+}
+
+.TitleIMG{
+    max-width: 100%;
+    border: 3px solid grey;
+    border-radius: 10px;
+}
+
+.SCPfoundation
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.navbar2{
+    border: 2px solid black;
+    background-color: rgba(222, 25, 25, 0.995);
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.TitleNav
+{
+    color: rgba(255, 255, 255, 0.89);
+    font-family: 'Courier New', Courier, monospace;
+}
+button
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(244, 82, 82);
+    border-color: grey;
+    padding: 8px;
+    margin: 10px 20px;
+    border-radius: 8px;
+    font-size: larger;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: rgb(203, 33, 33); 
+    color: aliceblue;
+    cursor: pointer;
+}
+
+
+.container
+{
+    border: 2px solid gray;
+    background-color: rgb(247, 204, 204);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.scp-title
+{
+    border: 2px solid gray;
+    background-color: rgb(247, 45, 45);
+    margin-right: auto;
+    font-size: xx-large;
+    border-radius: 8px;
+    width: max-content;
+    margin-bottom: 10px;
+    padding: 10px;
+    padding-bottom: 20px;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.mainlog{
+    width: 150px;
+    border: 4px solid rgb(40, 40, 40);
+    border-radius: 10px;
+}
+
+.card-body {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.scp {
+    
+    max-width: 100%; 
+    height: auto; 
+    border: 4px solid grey;
+    border-radius: 10px;
+}
+
+
+.scp003{
+    max-width: 90%;
+    height: auto;
+    border: 2px solid grey;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.scp004{
+    max-width: 100%;
+    height: auto;
+    border: 4px solid grey;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.Documentpaper
+{
+    background-color: rgb(246, 224, 224);
+    border: 2px solid grey;
+    border-radius: 6px;
+    padding: 15px;
+    text-align: left;
+}
+
+.scp005{
+    max-width: 100%;
+    height: auto;
+    border: 2px solid grey;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.Euclid
+{
+    border: 2px solid grey;
+    background-color: rgba(255, 197, 5, 0.881);
+    width: max-content;
+    font-size: xx-large;
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: large;
+    margin-bottom: 10px;
+    margin-right: auto;
+}
+
+.Safe
+{
+    border: 2px solid grey;
+    background-color: rgb(136, 240, 10);
+    width: max-content;
+    font-size: xx-large;
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: large;
+    margin-bottom: 10px;
+    margin-right: auto;
+}
