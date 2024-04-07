@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c60409e8.css",
+    "main.js": "/static/js/main.e94f62e0.js",
+    "static/media/SCP004_door.jpg": "/static/media/SCP004_door.e02e569d78a6d9c74a52.jpg",
+    "static/media/800px-SCP002.jpg": "/static/media/800px-SCP002.90f2ad453353d955f84a.jpg",
+    "static/media/SCP-006.webp": "/static/media/SCP-006.aaf2ba658849cea32805.webp",
+    "static/media/SCP-003a-new.jpg": "/static/media/SCP-003a-new.c7c2568dbe7ea4515868.jpg",
+    "static/media/SCPIogo.webp": "/static/media/SCPIogo.f80259d0750ea12aaac1.webp",
+    "static/media/SCP-005.jpg": "/static/media/SCP-005.732d52e02048ad9ac357.jpg",
+    "index.html": "/index.html",
+    "main.c60409e8.css.map": "/static/css/main.c60409e8.css.map",
+    "main.e94f62e0.js.map": "/static/js/main.e94f62e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c60409e8.css",
+    "static/js/main.e94f62e0.js"
+  ]
+}
